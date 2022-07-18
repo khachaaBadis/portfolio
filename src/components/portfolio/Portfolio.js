@@ -24,7 +24,7 @@ const Portfolio = () => {
             <a
               href='https://github.com/pseudoO97/ChocoBot'
               className='btn btn-primary'
-              target='_blank'
+              
             >
               Github Link
             </a>
@@ -40,7 +40,7 @@ const Portfolio = () => {
             <a
               href='https://github.com/khachaaBadis/book-api-projet-'
               className='btn btn-primary'
-              target='_blank'
+              
             >
               Github Link
             </a>
@@ -59,7 +59,7 @@ const Portfolio = () => {
             <a
               href='https://github.com/khachaaBadis/hilmi-version-one'
               className='btn btn-primary'
-              target='_blank'
+              
             >
               Github Link
             </a>
@@ -77,7 +77,7 @@ const Portfolio = () => {
             <a
               href='https://github.com/khachaaBadis/to-do-list'
               className='btn btn-primary'
-              target='_blank'
+              
             >
               Github Link
             </a>
@@ -95,7 +95,7 @@ const Portfolio = () => {
             <a
               href='https://github.com/khachaaBadis/Green-store-E-shop'
               className='btn btn-primary'
-              target='_blank'
+              
             >
               Github Link
             </a>
@@ -114,7 +114,7 @@ const Portfolio = () => {
             <a
               href='https://github.com/khachaaBadis/CameraApp'
               className='btn btn-primary'
-              target='_blank'
+              
             >
               Github Link
             </a>
