@@ -6,12 +6,12 @@ import { AiOutlineLinkedin } from "react-icons/ai";
 function Footer() {
   return (
     <footer>
-      <a href="#" className="footer__logo">
+      <a href="/#" className="footer__logo">
         EGATOR
       </a>
       <ul className="permalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="/#">Home</a>
         </li>
         <li>
           <a href="#about">About</a>
@@ -30,15 +30,15 @@ function Footer() {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https://www.facebook.com/mangustooo/" target="_blank">
+        <a href="https://www.facebook.com/mangustooo/">
           <AiOutlineFacebook />
         </a>
-        <a href="https://www.instagram.com/badiskhachaa/" target="_blank">
+        <a href="https://www.instagram.com/badiskhachaa/" >
           <FaInstagram />
         </a>
         <a
           href="https://www.linkedin.com/in/khachaa-badis-790bab244/"
-          target="_blank"
+         
         >
           <AiOutlineLinkedin />
         </a>

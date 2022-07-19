@@ -37,7 +37,7 @@ function Contact() {
             <MdOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>badiskhachaa96@gmail.com</h5>
-            <a href="mailto:badiskhachaa96@gmail.com" target="_blank">
+            <a href="mailto:badiskhachaa96@gmail.com" >
               Send a message
             </a>
           </article>
@@ -46,7 +46,7 @@ function Contact() {
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messanger</h4>
             <h5>badis khachaa</h5>
-            <a href="https://m.me/mangustooo/ " target="_blank">
+            <a href="https://m.me/mangustooo/ " >
               Send a message
             </a>
           </article>
@@ -57,7 +57,7 @@ function Contact() {
             <h5>+33605803206</h5>
             <a
               href="https://wa.me/33605803206"
-              target="_blank"
+              
             >
               Send a message
             </a>
